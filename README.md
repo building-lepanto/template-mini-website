@@ -1,3 +1,5 @@
+![Hero Image](image-1.png)
+
 # {{service}} in {{city}}, {{state}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis m Lorem ipsum dolor sit amet.
@@ -6,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna 
 
 ## About Us: {{business name}}
 
-![About Us Image](filler-image-1.png)
+![About Us Image](image-2.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, sed congue mauris fermentum. Donec ut risus eget magna vulputate dignissim at ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -19,7 +21,7 @@ Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, 
 
 ## Why Choose us for your {{service}} in {{city}}, {{state}}
 
-![Why Choose Us Image](path-to-why-choose-us-image.png)
+![Why Choose Us Image](image-3.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, sed congue mauris fermentum. Donec ut risus eget magna vulputate dignissim at ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -37,7 +39,7 @@ Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, 
 
 ## About {{service}}
 
-![About Service Image](path-to-about-service-image.png)
+![About Service Image](image-4.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, sed congue mauris fermentum. Donec ut risus eget magna vulputate dignissim at ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -50,7 +52,7 @@ Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, 
 
 ## About {{city}}
 
-![About City Image](path-to-about-city-image.png)
+![About City Image](image-5.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, sed congue mauris fermentum. Donec ut risus eget magna vulputate dignissim at ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -104,7 +106,7 @@ Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, 
 ### Business Hours
 {{business hours}}
 
-### View Us on Google Maps
+## View Us on Google Maps
 
 <div style="width: 100%; height: 0; padding-bottom: 56%; position: relative;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d320795.41162007884!2d-114.37363212253459!3d51.08605519048819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5371710f63f5f061%3A0xa0eda420c717402!2sStubborn%20Stump%20Grinding%20and%20Tree%20Care!5e0!3m2!1sen!2sca!4v1721992842192!5m2!1sen!2sca" width="600" height="450" style="border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
