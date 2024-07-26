@@ -1,4 +1,4 @@
-![Hero Image](https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0)
+<img src="https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0" alt="Description of the image" width="500" height="400">
 
 # {{service}} in {{city}}, {{state}}
 
