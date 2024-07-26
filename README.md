@@ -1,5 +1,3 @@
-<img src="https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0" alt="Description of the image" width="500" height="400">
-
 ## View Our Image
 
 <div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
