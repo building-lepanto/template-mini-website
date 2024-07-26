@@ -5,7 +5,7 @@
 </div>
 
 <div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
+  <img src="filler-image.webp" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
 </div>
 
 # {{service}} in {{city}}, {{state}}
