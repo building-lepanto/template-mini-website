@@ -2,7 +2,7 @@
 
 ## View Our Image
 
-<div style="width: 500px; height: 400px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+<div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
   <img src="https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
 </div>
 
