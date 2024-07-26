@@ -14,6 +14,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna 
 
 ![Logo](path-to-logo-image.png)
 
+<div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <img src="filler-logo.webp" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
+</div>
+
 ## About Us: {{business name}}
 
 ![About Us Image](path-to-about-us-image.png)
