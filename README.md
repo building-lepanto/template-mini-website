@@ -1,4 +1,4 @@
-![Hero Image]([path-to-why-choose-us-image.png](https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0))
+![Hero Image](https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0)
 
 # {{service}} in {{city}}, {{state}}
 
