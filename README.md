@@ -1,5 +1,24 @@
 <img src="https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0" alt="Description of the image" width="500" height="400">
 
+<div class="image-container">
+  <img src="https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0" alt="Stubborn Stump Grinding and Tree Care" class="cropped-image">
+</div>
+
+<style>
+  .image-container {
+    width: 500px;
+    height: 400px;
+    overflow: hidden;
+  }
+  
+  .cropped-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
+
 # {{service}} in {{city}}, {{state}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis m Lorem ipsum dolor sit amet.
