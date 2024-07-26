@@ -1,26 +1,12 @@
-## View Our Image
-
-<div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="https://lh3.googleusercontent.com/p/AF1QipNhysoanIvt15PCe9JxD8izgx5DO4jVtdreglLz=s0" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
-</div>
-
-<div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="filler-image.webp" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
-</div>
-
 # {{service}} in {{city}}, {{state}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis m Lorem ipsum dolor sit amet.
 
 ![Logo](path-to-logo-image.png)
 
-<div style="width: 600px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="filler-logo.webp" alt="Stubborn Stump Grinding and Tree Care" style="min-width: 100%; min-height: 100%; object-fit: cover;">
-</div>
-
 ## About Us: {{business name}}
 
-![About Us Image](path-to-about-us-image.png)
+![About Us Image](filler-image-1.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at orci sed urna tristique auctor. Morbi mattis massa lacinia sem mollis, sed congue mauris fermentum. Donec ut risus eget magna vulputate dignissim at ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
